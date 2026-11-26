@@ -1,0 +1,28 @@
+{
+  "name": "life-protecter-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.453.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.1",
+    "@testing-library/react": "^16.0.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "jsdom": "^25.0.1",
+    "vitest": "^2.1.4"
+  }
+}

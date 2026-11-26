@@ -1,0 +1,90 @@
+const en = {
+  brand: "Life Protecter",
+  tagline: "FIND THE RIGHT HOSPITAL. SAVE VALUABLE TIME. PROTECT LIVES.",
+  emergencyCall: "EMERGENCY – CALL 112",
+  emergencyNotice: "In an emergency in India, call 112 immediately. Do not wait for this app.",
+  nav: {
+    home: "Home",
+    nearby: "Nearby Hospitals",
+    map: "Hospital Map",
+    specialties: "Specialties",
+    compare: "Compare",
+    beds: "Bed Info",
+    services: "Medical Services",
+    emergency: "Emergency",
+    assistant: "Care Assistant",
+    saved: "Saved",
+    admin: "Admin",
+    settings: "Settings",
+    profile: "Profile",
+    login: "Login",
+    register: "Register",
+    logout: "Logout"
+  },
+  home: {
+    welcomeTitle: "Find the Right Hospital in Bengaluru & Across India",
+    welcomeSubtitle: "Discover nearby hospitals, verified specialties, medical services, interactive directions, and immediate 112 emergency support.",
+    searchPlaceholder: "Search hospital name or specialty...",
+    locationPlaceholder: "Enter city or area (e.g., Indiranagar, Bengaluru, Mysuru)...",
+    useMyLocation: "Use Current Location",
+    searchBtn: "Find nearby hospitals",
+    voiceBtn: "Voice Search",
+    voiceListening: "Listening...",
+    voiceUnsupported: "Voice search is not supported in this browser. Please type your search query.",
+    popularSpecialties: "Popular Medical Specialties",
+    quickServices: "Quick Healthcare Services",
+    nearbySuggestions: "Nearby Hospital Suggestions",
+    viewAll: "View all"
+  },
+  search: {
+    radius: "Search Radius",
+    facilityType: "Facility Type",
+    allTypes: "All Facilities",
+    hospital: "Hospital",
+    clinic: "Clinic",
+    doctors: "Doctor / Practice",
+    specialty: "Medical Specialty",
+    allSpecialties: "All Specialties",
+    emergencyOnly: "Emergency Capable Only",
+    mapView: "Map View",
+    listView: "List View",
+    noResults: "No hospitals matched your filters. Try expanding the search radius or clearing filters.",
+    gpsDenied: "Location permission was denied. Please enter a Bengaluru locality or Indian city manually below.",
+    distanceAway: "km away",
+    sourceLabel: "Source"
+  },
+  details: {
+    callHospital: "Call Hospital",
+    getDirections: "Get Directions",
+    shareHospital: "Share Hospital",
+    saveHospital: "Save Hospital",
+    savedHospital: "Saved",
+    addToCompare: "Compare",
+    reportIssue: "Report Incorrect Information",
+    specialties: "Medical Specialties",
+    noSpecialties: "Specialty information unavailable.",
+    services: "Medical Service Availability",
+    noServices: "Service availability records are currently unavailable.",
+    beds: "Bed Capacity & Availability",
+    noBeds: "Bed availability information is currently unavailable.",
+    coordinates: "Coordinates",
+    openingHours: "Opening Hours",
+    accessibility: "Wheelchair Accessibility",
+    lastUpdated: "Last Updated",
+    verificationStatus: "Verification Status"
+  },
+  demo: {
+    toggleLabel: "Hackathon Demo Data Mode",
+    banner: "DEMO DATA MODE ACTIVE — Showing clearly labelled synthetic bed availability for demonstration only. Not real hospital availability."
+  },
+  common: {
+    loading: "Loading healthcare data...",
+    unknown: "Unknown",
+    unavailable: "Unavailable",
+    submit: "Submit",
+    cancel: "Cancel",
+    back: "Back"
+  }
+};
+
+export default en;
